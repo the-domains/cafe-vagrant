@@ -1,0 +1,14 @@
+layout_spectrum: 0.8204497890546918
+typography_spectrum: 0.5917889073025435
+color:
+  brandStrength: 0.04825473274104297
+  lightness: 0.07950263004750013
+  saturation: 0.3674750707577914
+  rhythmicContrast: 0.36458897101692855
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Cafe Vagrant
